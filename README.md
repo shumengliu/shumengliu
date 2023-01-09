@@ -1,22 +1,20 @@
 # Shumeng Liu AKA Shuyun the Wallfacer
 
-`**Please consider hiring me**`
-
-### Blog/Portofolio
+**`Please consider hiring me`**
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shumengliu&repo=blog&show_owner=true&theme=radical)](https://github.com/shumengliu/blog)
 
-### 10 Seconds Intro
+#### 10 Seconds Intro
 
 I'm a developer who enjoys learning and reading.
 
-### 10 Minutes Intro
+#### 10 Minutes Intro
 
 See my [About](https://www.shuyunthewf.com/about) page.
 
-### What Am I Doing Now?
+#### What Am I Doing Now?
 
 See my [Now](https://www.shuyunthewf.com/now) page.
 
@@ -39,6 +37,9 @@ See my [Now](https://www.shuyunthewf.com/now) page.
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" />
+
+<br/>
+<br/>
 
 ---
 
