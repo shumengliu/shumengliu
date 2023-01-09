@@ -6,15 +6,15 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shumengliu&repo=blog&show_owner=true&theme=radical)](https://github.com/shumengliu/blog)
 
-#### 10 Seconds Intro
+### 10 Seconds Intro
 
 I'm a developer who enjoys learning and reading.
 
-#### 10 Minutes Intro
+### 10 Minutes Intro
 
 See my [About](https://www.shuyunthewf.com/about) page.
 
-#### What Am I Doing Now?
+### What Am I Doing Now?
 
 See my [Now](https://www.shuyunthewf.com/now) page.
 
