@@ -1,7 +1,5 @@
 # Shumeng Liu AKA Shuyun the Wallfacer
 
-**`Please consider hiring me`**
-
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shumengliu&repo=blog&show_owner=true&theme=radical)](https://github.com/shumengliu/blog)
